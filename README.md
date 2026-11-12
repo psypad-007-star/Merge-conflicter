@@ -1,1 +1,6 @@
-# Merge-conflicter
+Merge-conflicter
+
+
+Om nama shivaya 
+===
+
